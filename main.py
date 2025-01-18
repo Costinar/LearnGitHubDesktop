@@ -9,3 +9,6 @@ def multi(x, y):
 
 def divide(x, y):
     return x / y
+
+def say_hello():
+    return ("Hello")
